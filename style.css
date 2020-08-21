@@ -1,0 +1,28 @@
+input {
+    margin: 10px;
+    
+}
+.form {
+    height: auto;
+    width: 200px;
+    background-color: blue;
+    display: inline-block;
+    
+}
+
+.view {
+    height: auto;
+    width: 200px;
+    background-color: aqua;
+    display: inline-block;
+    vertical-align: top;
+}
+form p {
+    margin-left: 60px;
+    color: white;
+
+}
+.view p {
+    font-family: cursive;
+}
+
